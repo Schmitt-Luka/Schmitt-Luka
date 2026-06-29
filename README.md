@@ -1,13 +1,14 @@
 <img width="2512" height="416" alt="Gemini_Generated_Image_uco816uco816uco8" src="https://github.com/user-attachments/assets/1fc41a01-6ac1-4e65-88b9-c3b61e9f437c" />
-### Hi there! 
+
+# Hi there! 
 I'm a Full Stack Developer specializing in Frontend & UX/UI
 
 My journey in tech began with a background in Computer Engineering, which provided me with a strong analytical foundation. However, my true passion lies in the frontend—analyzing and perfecting how users interact with software. I have a meticulous eye for detail, focusing on fine-tuning user flows and ensuring every component performs optimally.
 
-###  My Approach
+#  My Approach
 I believe development is about striking the perfect balance between clean, high-performance code and an intuitive user experience. I approach my projects with an optimization mindset, structuring code to achieve maximum efficiency while applying modern styling to deliver the exact impact a product needs. I bring strong discipline, strategic problem-solving, and a highly collaborative spirit directly into my development workflow.
 
-###  Tech Stack & Tools
+#  Tech Stack & Tools
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
