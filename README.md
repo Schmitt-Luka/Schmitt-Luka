@@ -1,5 +1,6 @@
 <img width="2512" height="416" alt="Gemini_Generated_Image_uco816uco816uco8" src="https://github.com/user-attachments/assets/1fc41a01-6ac1-4e65-88b9-c3b61e9f437c" />
-### Hi there! 👋 I'm a Full Stack Developer specializing in Frontend & UX/UI
+### Hi there! 
+I'm a Full Stack Developer specializing in Frontend & UX/UI
 
 My journey in tech began with a background in Computer Engineering, which provided me with a strong analytical foundation. However, my true passion lies in the frontend—analyzing and perfecting how users interact with software. I have a meticulous eye for detail, focusing on fine-tuning user flows and ensuring every component performs optimally.
 
