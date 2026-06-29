@@ -25,6 +25,7 @@ I believe development is about striking the perfect balance between clean, high-
 # What I've Been Building
 
 **Ticketing E-Commerce Platform:** Developed an end-to-end event ticketing web application (similar to Passline/Ticketek), managing the product lifecycle to ensure a seamless and intuitive purchasing experience.
+
 **Sports Roster Management App:** Created a mobile-optimized web application for sports team management. Built with **React**, this project focuses on smooth mobile usability and utilizes local storage for efficient data persistence.
 
 # Looking Forward
