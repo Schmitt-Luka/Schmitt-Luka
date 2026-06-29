@@ -29,4 +29,8 @@ I believe development is about striking the perfect balance between clean, high-
 I am currently looking to join a collaborative team where I can apply my attention to detail and technical stack to real-world challenges. I am eager to contribute to impactful products while continuing to learn and expand my skill set within the tech industry.
 
 ---
-**Let's connect:** [www.linkedin.com/in/luka-schmitt] |  **Contact:** [ianschmitt2000@gmail.com]
+---
+### 📫 Let's connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luka-schmitt)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianschmitt2000@gmail.com)
