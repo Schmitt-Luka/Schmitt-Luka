@@ -22,18 +22,18 @@ I believe development is about striking the perfect balance between clean, high-
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### What I've Been Building
+# What I've Been Building
 
-* **Ticketing E-Commerce Platform:** Developed an end-to-end event ticketing web application (similar to Passline/Ticketek), managing the product lifecycle to ensure a seamless and intuitive purchasing experience.
-* **Sports Roster Management App:** Created a mobile-optimized web application for sports team management. Built with **React**, this project focuses on smooth mobile usability and utilizes local storage for efficient data persistence.
+**Ticketing E-Commerce Platform:** Developed an end-to-end event ticketing web application (similar to Passline/Ticketek), managing the product lifecycle to ensure a seamless and intuitive purchasing experience.
+**Sports Roster Management App:** Created a mobile-optimized web application for sports team management. Built with **React**, this project focuses on smooth mobile usability and utilizes local storage for efficient data persistence.
 
-### Looking Forward
+# Looking Forward
 I am currently looking to join a collaborative team where I can apply my attention to detail and technical stack to real-world challenges. I am eager to contribute to impactful products while continuing to learn and expand my skill set within the tech industry.
 
 ---
 ---
 ---
-### Let's connect:
+# Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-schmitt/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianschmitt2000@gmail.com)
